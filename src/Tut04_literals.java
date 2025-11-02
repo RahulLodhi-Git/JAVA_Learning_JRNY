@@ -1,6 +1,7 @@
 public class Tut04_literals {
     public static void main(String[] args) {
-        // Literals :- When we assigned any constant into the variable is called literals. For eg
+        // Literals :- Constant value which can be assigned to the variables is called as a literals.
+        // All 8 Primitive Data Types in java find below
         byte age =55;
         int age2=97;
         short age3=99;
@@ -15,8 +16,8 @@ public class Tut04_literals {
 
 
 
-
-        System.out.println(charVar + StringVar);
+        System.out.println(charVar );
+        System.out.println(StringVar);
 
 
     }
