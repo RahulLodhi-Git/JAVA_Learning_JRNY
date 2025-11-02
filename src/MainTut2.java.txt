@@ -9,8 +9,10 @@ public class Main{
         // static :- we can directly use this function(method), no need to create object from respective class.
         // void :- its indicates that function(method) does not return anythings(values).
         // main :- its function(method) name, should be in the camelCase.
-
+        int number=8;
+        int number2=8;
         System.out.println("Described Java file's basic structure");
+        System.out.println(number + number2);
         // To view/print the values
     }
 }
